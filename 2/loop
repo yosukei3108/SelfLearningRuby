@@ -14,3 +14,11 @@ until i >= 5 # do (could be omitted)
   puts i
   i += 1
 end
+
+
+# for
+
+array = ["candy", "chocolate", "cake", "ice cream"]
+for sweet in array
+  puts sweet
+end
